@@ -1,0 +1,56 @@
+<!-- Save this as projects.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Junting Lyu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Projects</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">About Me</a></li>
+            <li><a href="work-experience.html">Work Experience</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <section>
+        <h2>Project Details</h2>
+        <div class="project">
+            <h3>Complex ML Serving Pipelines</h3>
+            <p>April 2024 - May 2024: Extended Crayfish, a benchmarking framework for model serving in data streaming jobs, with complex Apache Flink pipelines. Enabled command line configuration with shell scripts.</p>
+        </div>
+        <div class="project">
+            <h3>Deep Learning Based Simulated Trading</h3>
+            <p>March 2024 - May 2024: Utilized LSTM model with TensorFlow, and Hugging Face Transformer to perform sentimental analysis on web-scraped news headlines to predict the price of E-mini S&P 500 futures. Performed live trading via connection with Interactive Broker API.</p>
+        </div>
+        <div class="project">
+            <h3>Winding Number on Graphs</h3>
+            <p>April 2024 - May 2024: Extended the use of winding numbers to high-dimensional graphs as features in graph segmentation tasks. Embedded MINST dataset with OpenClip, performed semi-supervised learning on the partially labeled graph, and tested winding number's reliability as features, visualizing the results using matplotlib.</p>
+        </div>
+        <div class="project">
+            <h3>Geometric Processing Projects</h3>
+            <p>February 2024 – April 2024: Utilized OpenMesh to implement geometric processing algorithms, including those for mesh smoothing, deformation, and parametrization, Delaunay mesh generation, based on Open Flipper platform.</p>
+        </div>
+        <div class="project">
+            <h3>Real-Time Virtual Stock Trading System in Java</h3>
+            <p>November 2023 - December 2023: Created a virtual stock trading system following MVC, factory, and observer design patterns in Java. Utilized a MySQL database to store information of stocks, records, and accounts, enabling real-time interaction through GUIs implemented with Java Swing.</p>
+        </div>
+        <div class="project">
+            <h3>Bluetooth Mouse on Android Mobile</h3>
+            <p>November 2023 - December 2023: Enabled phone functionality as a wireless mouse, touchpad, or slide controller using Bluetooth HID Profile. Conducted unit testing and JVM testing with JUnit to guarantee error-free runtime performance.</p>
+        </div>
+        <div class="project">
+            <h3>Quarantine, A Unity Game Project</h3>
+            <p>December 2021 - January 2022: Developed a Unity-based FPS game with fully functional player character and enemies, interactive map components, inventory system, and UI, dialogue system, save and load function, visual and sound effects. <a href="https://www.bilibili.com/video/BV1FZ4y1S76q/?share_source=copy_web">Watch demo video</a>.</p>
+        </div>
+    </section>
+    <footer>
+        <p>Contact: <a href="mailto:lvjt@bu.edu">lvjt@bu.edu</a></p>
+    </footer>
+</body>
+</html>

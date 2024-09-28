@@ -29,6 +29,9 @@
         </div>
         <!-- Add more assignments as needed -->
     </section>
+    <video width="640" height="360" controls>
+        <source src="kmeans_showcase.webm" type="video/webm">
+    </video>
     <footer>
         <p>Contact: <a href="mailto:lvjt@bu.edu">lvjt@bu.edu</a></p>
     </footer>

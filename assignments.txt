@@ -44,6 +44,12 @@
             
             <p><a href="https://github.com/lyujt/bu_lyujt-assignment-2.git">Github Link</a></p>
         </div>
+        
+        <div class="assignment">
+            <h3>Assignment 3: SVD Preprocessing on MNIST with Logistic Regression</h3>
+            <p>This assignment includes applying = Singular Value Decomposition (SVD) as a preprocessing step to the MNIST dataset and training a logistic regression classifier.</p>
+            <p><a href="https://github.com/lyujt/bu_lyujt-assignment-3.git">Github Link</a></p>
+        </div>
 
         <!-- Add more assignments as needed -->
     </section>

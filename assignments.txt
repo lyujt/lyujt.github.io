@@ -68,6 +68,11 @@
             <p><a href="https://github.com/lyujt/bu_lyujt-assignment-5.git">Github Link</a></p>
         </div>
 
+        <div class="assignment">
+            <h3>Midterm Competition</h3>
+            <p>The goal of this competition is to predict the star rating associated with user reviews from Amazon Movie Reviews using the available features.</p>
+            <p><a href="https://github.com/lyujt/CS506_midterm.git">Github Link</a></p>
+        </div>
         <!-- Add more assignments as needed -->
     </section>
     <footer>
